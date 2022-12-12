@@ -30,7 +30,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ## TODO
 - [ ] `Reset` button to reset the game
-- [ ] `Save` and `Load` current state
+- [ ] Options to save and load game states
 - [ ] Option to load a `pattern` from [this](https://www.conwaylife.com/wiki/Category:Patterns) list
 
 ## License
