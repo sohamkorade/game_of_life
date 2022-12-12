@@ -10,7 +10,7 @@ Visit https://sohamapps.rf.gd/gameoflife/
 
 or
 
-Simply open [index.html]() in your browser.
+Simply open [index.html](index.html) in your browser.
 
 ## How to use
 
